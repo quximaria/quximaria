@@ -1,18 +1,15 @@
-```markdown
 <div align="center">
 
-# Hi 👋, I'm Angel Mariya
+# Hi there, I'm Angel Mariya 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=MCA+Student;AI+%26+Computer+Vision+Enthusiast;Python+Developer;Professional+Emcee+%7C+Event+Host;Always+Learning+Something+New" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=850&lines=MCA+Student;AI+%26+Computer+Vision+Enthusiast;Python+Developer;Professional+Emcee;Dog+Behavior+%26+Breed+Explorer;Always+Learning+Something+New" alt="Typing SVG" />
 
-### Building intelligent solutions with AI while creating memorable experiences on stage.
+### Building intelligent solutions, hosting memorable moments, and learning something new every day.
 
 <p align="center">
-  <a href="https://github.com/quximaria">
-    <img src="https://komarev.com/ghpvc/?username=quximaria&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  </a>
-  <img src="https://img.shields.io/github/followers/quximaria?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/stars/quximaria?style=for-the-badge&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=6A5ACD&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&color=181717" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&color=FFD700" alt="Stars" />
 </p>
 
 </div>
@@ -21,41 +18,65 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 MCA Student
-- 🤖 Interested in Artificial Intelligence, Machine Learning & Computer Vision
-- 🐍 Python Developer
-- 🌐 Exploring Full Stack Development
-- 🎤 Professional Emcee for Weddings, Corporate Events & Stage Shows
-- 🐕 Passionate about Dog Behaviour, Canine Psychology & Dog Breeds
-- 📖 Lifelong learner who enjoys solving real-world problems
+* 🎓 Master of Computer Applications (MCA) student
+* 🤖 Passionate about Artificial Intelligence, Machine Learning, and Computer Vision
+* 🐍 Enjoy working with Python, image processing, and intelligent applications
+* 🌐 Exploring full-stack web technologies and practical software solutions
+* 🎤 Professional Master of Ceremonies (Emcee) for weddings, corporate events, cultural programs, and celebrations
+* 🐕 Deeply interested in dog behavior, canine psychology, responsible ownership, and different dog breeds
+* 🌱 Always learning, improving, and growing both technically and personally
 
 ---
 
-## 🚀 Tech Stack
+## ✨ Interests in Motion
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Computer+Vision+%26+Image+Processing;Professional+Event+Hosting;Dog+Behavior+%26+Canine+Psychology;Full-Stack+Development;Creative+Problem+Solving" alt="Interests in motion" />
+
+</div>
+
+---
+
+## 💼 What I'm Working On
+
+* 🥜 AI-based Cashew Nut Defect Detection using OpenCV
+* 🎨 Image processing and computer vision projects
+* 📚 Expanding my knowledge of Machine Learning and Deep Learning
+* 🚀 Building user-friendly applications that combine AI with real-world utility
+* 🧠 Strengthening my problem-solving and development skills through hands-on projects
+
+---
+
+## 🛠️ Tech Stack
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+
+\
 
 ### Web Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### AI & Tools
+\
 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+### AI & Computer Vision
+
+
+\
+
+### Databases
+
+\
+
+### Tools & Platforms
+
+
+
+
+\
 
 ---
 
@@ -63,7 +84,7 @@
 
 ### 🥜 Intelligent Cashew Nut Grading System
 
-AI-powered image processing application that classifies cashew kernels as **Normal** or **Defective** using OpenCV.
+An image-processing application that classifies cashew kernels as **Normal** or **Defective** using OpenCV techniques.
 
 **Tech:** Python • OpenCV • Image Processing
 
@@ -71,47 +92,63 @@ AI-powered image processing application that classifies cashew kernels as **Norm
 
 ### 🎨 Toonify – AI Image Transformation Tool
 
-Transforms ordinary images into artistic cartoon-style illustrations using computer vision.
+A web application that transforms uploaded images into artistic cartoon-style illustrations.
 
 **Tech:** Python • Streamlit • OpenCV • Pillow • SQLite
 
 ---
 
-## 🎤 Beyond Coding
+## 🎤 Beyond Technology
 
-Alongside software development, I work as a **Professional Emcee (MC)**.
+When I'm not coding, you'll often find me behind the microphone as a **professional event emcee**.
 
-✨ Weddings  
-✨ Corporate Events  
-✨ College Fests  
-✨ Cultural Programs  
-✨ Award Ceremonies  
-✨ Stage Shows
+I enjoy creating memorable experiences by hosting:
 
-I enjoy creating engaging experiences through confident communication, audience interaction, and stage presence.
+* 💍 Weddings
+* 🏢 Corporate Events
+* 🎓 College Functions
+* 🎉 Cultural Programs
+* 🌟 Award Ceremonies
+* 🎭 Stage Shows
 
----
-
-## 🐾 Outside Tech
-
-I'm passionate about learning more about:
-
-- 🐕 Dog Behaviour
-- 🐶 Different Dog Breeds
-- ❤️ Positive Dog Training
-- 🩺 Canine Health & Welfare
+Public speaking, audience engagement, and effective communication are skills that complement my technical journey and help me collaborate confidently with diverse teams.
 
 ---
 
-## 📊 GitHub Analytics
+## 🐾 A Personal Interest
+
+I'm deeply interested in:
+
+* Dog breeds and their characteristics
+* Canine behavior and psychology
+* Positive training methods
+* Responsible pet care
+* Learning from experienced trainers and veterinary resources
+
+I enjoy understanding what makes every breed unique and believe there's always something new to learn about our four-legged companions.
+
+---
+
+## 📚 Currently Learning
+
+* Deep Learning
+* Convolutional Neural Networks (CNNs)
+* Advanced Computer Vision
+* Data Structures & Algorithms
+* Full-Stack Development
+* Generative AI
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=quximaria&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quximaria&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=quximaria&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -119,42 +156,34 @@ I'm passionate about learning more about:
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=quximaria&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## 🌱 Currently Learning
+## 🤝 Let's Connect
 
-- Deep Learning
-- Computer Vision
-- CNNs
-- Generative AI
-- Full Stack Development
-
----
-
-## 🤝 Connect With Me
+Feel free to connect if you'd like to collaborate on technology, AI projects, event hosting opportunities, or simply exchange ideas.
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
 </p>
+
+---
+
+## 💭 Personal Motto
+
+> *"Keep learning, communicate with purpose, and build solutions that create a meaningful impact."*
 
 ---
 
 <div align="center">
 
-### 💙 *"Technology, Communication, and Continuous Learning—growing one project and one experience at a time."*
-
-⭐ Thanks for visiting my profile!
+⭐ Thank you for visiting my profile!
 
 </div>
-```
