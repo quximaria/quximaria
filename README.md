@@ -1,93 +1,154 @@
-# Hi, I'm Angel Mariya 👋
+# Hi there, I'm Angel Mariya 👋
 
-### MCA Student | AI & Computer Vision Enthusiast | Python Developer
+### 🎓 MCA Student | 💻 AI & Computer Vision Enthusiast | 🎤 Professional Emcee | 🐕 Dog Enthusiast
 
-Welcome to my GitHub! I'm passionate about building intelligent applications that solve real-world problems using Artificial Intelligence, Machine Learning, and Computer Vision.
+Welcome to my GitHub profile!
+
+I'm passionate about building technology that solves real-world problems while also enjoying opportunities to connect with people through live event hosting. Whether I'm developing AI-powered applications, speaking on stage, or learning about canine behavior, I believe in continuous learning and meaningful experiences.
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Second Year MCA Student
-- 💻 Interested in Artificial Intelligence, Machine Learning & Computer Vision
-- 🐍 Strong interest in Python Development
-- 🌱 Currently learning OpenCV, Deep Learning, and Full Stack Development
-- 🚀 Building projects that combine AI with practical applications
-- 🎯 Goal: Become an AI Engineer / Machine Learning Engineer
+* 🎓 Master of Computer Applications (MCA) student
+* 🤖 Interested in Artificial Intelligence, Machine Learning, and Computer Vision
+* 🐍 Passionate about Python development and image processing
+* 🌐 Exploring full-stack web technologies and intelligent applications
+* 🎤 Professional Master of Ceremonies (Emcee) for weddings, corporate events, cultural programs, and celebrations
+* 🐕 Fascinated by dog behavior, canine psychology, responsible ownership, and different dog breeds
+* 🌱 Always learning new technologies and improving my technical and communication skills
 
 ---
 
-## 🛠️ Technical Skills
+## 💼 What I'm Working On
 
-### Programming Languages
-- Python
-- C
-- Java
-- SQL
+* 🥜 AI-based Cashew Nut Defect Detection using OpenCV
+* 🎨 Image Processing and Computer Vision projects
+* 📚 Expanding my knowledge of Machine Learning and Deep Learning
+* 🚀 Building practical software solutions that combine AI with user-friendly interfaces
 
-### Web Technologies
-- HTML
-- CSS
-- JavaScript
-- PHP
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+* Python
+* Java
+* C
+* SQL
+* JavaScript
+
+### Web Development
+
+* HTML
+* CSS
+* PHP
 
 ### AI & Computer Vision
-- OpenCV
-- Image Processing
-- Machine Learning Basics
+
+* OpenCV
+* Image Processing
+* Machine Learning Fundamentals
 
 ### Databases
-- MySQL
-- SQLite
 
-### Tools & Platforms
-- Git
-- GitHub
-- VS Code
-- Streamlit
-- Canva
+* MySQL
+* SQLite
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* Streamlit
+* Canva
 
 ---
 
-## 🚀 Featured Projects
+## 🌟 Featured Projects
 
-### 🎨 Toonify - AI Image Transformation Tool
-A web application that converts uploaded images into cartoon-style artwork.
+### 🥜 Intelligent Cashew Nut Grading System
 
-**Tech Stack:** Python, Streamlit, OpenCV, Pillow, SQLite
+An image-processing application that classifies cashew kernels as **Normal** or **Defective** using OpenCV techniques.
+
+**Tech:** Python • OpenCV • Image Processing
+
+---
+
+### 🎨 Toonify – AI Image Transformation Tool
+
+A web application that transforms uploaded images into artistic cartoon-style illustrations.
+
+**Tech:** Python • Streamlit • OpenCV • Pillow • SQLite
+
+---
+
+## 🎤 Beyond Technology
+
+When I'm not coding, you'll often find me behind the microphone as an **event emcee**.
+
+I enjoy creating memorable experiences by hosting:
+
+* 💍 Weddings
+* 🏢 Corporate Events
+* 🎓 College Functions
+* 🎉 Cultural Programs
+* 🌟 Award Ceremonies
+* 🎭 Stage Shows
+
+Public speaking, audience engagement, and effective communication are skills that complement my technical journey and help me collaborate confidently with diverse teams.
+
+---
+
+## 🐾 A Personal Interest
+
+I'm deeply interested in:
+
+* Dog breeds and their characteristics
+* Canine behavior and psychology
+* Positive training methods
+* Responsible pet care
+* Learning from experienced trainers and veterinary resources
+
+I enjoy understanding what makes every breed unique and believe there's always something new to learn about our four-legged companions.
 
 ---
 
 ## 📚 Currently Learning
 
-- Deep Learning
-- Convolutional Neural Networks (CNN)
-- Computer Vision
-- Data Structures & Algorithms
-- Full Stack Development
-- Generative AI
+* Deep Learning
+* Convolutional Neural Networks (CNNs)
+* Advanced Computer Vision
+* Data Structures & Algorithms
+* Full-Stack Development
+* Generative AI
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+> Replace `YOUR_GITHUB_USERNAME` with your GitHub username.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=tokyonight)
 
----
-
-## 🌐 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/angel-mariya-3a2a632b8
-- 📧 Email:angelmariya1703@gmail.com
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=tokyonight)
 
 ---
 
-### 💡 Quote
+## 🤝 Let's Connect
 
-*"Technology becomes meaningful when it creates solutions that improve lives."*
+Feel free to connect if you'd like to collaborate on technology, AI projects, event hosting opportunities, or simply exchange ideas.
+
+* 💼 LinkedIn: *Add your LinkedIn profile*
+* 📧 Email: *Add your professional email*
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 💭 Personal Motto
+
+> *"Keep learning, communicate with purpose, and build solutions that create a meaningful impact."*
+
+---
+
+⭐ Thank you for visiting my profile!
