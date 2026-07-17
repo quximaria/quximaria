@@ -166,10 +166,10 @@ I enjoy understanding what makes every breed unique and believe there's always s
 Feel free to connect if you'd like to collaborate on technology, AI projects, event hosting opportunities, or simply exchange ideas.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE">
+  <a href="https://www.linkedin.com/in/angel-mariya-3a2a632b8">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:angelmariya1703@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
