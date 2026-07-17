@@ -1,68 +1,61 @@
-# Hi there, I'm Angel Mariya 👋
+```markdown
+<div align="center">
 
-### 🎓 MCA Student | 💻 AI & Computer Vision Enthusiast | 🎤 Professional Emcee | 🐕 Dog Enthusiast
+# Hi 👋, I'm Angel Mariya
 
-Welcome to my GitHub profile!
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=MCA+Student;AI+%26+Computer+Vision+Enthusiast;Python+Developer;Professional+Emcee+%7C+Event+Host;Always+Learning+Something+New" alt="Typing SVG" />
 
-I'm passionate about building technology that solves real-world problems while also enjoying opportunities to connect with people through live event hosting. Whether I'm developing AI-powered applications, speaking on stage, or learning about canine behavior, I believe in continuous learning and meaningful experiences.
+### Building intelligent solutions with AI while creating memorable experiences on stage.
+
+<p align="center">
+  <a href="https://github.com/quximaria">
+    <img src="https://komarev.com/ghpvc/?username=quximaria&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  </a>
+  <img src="https://img.shields.io/github/followers/quximaria?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/quximaria?style=for-the-badge&logo=github" />
+</p>
+
+</div>
 
 ---
 
 ## 👩‍💻 About Me
 
-* 🎓 Master of Computer Applications (MCA) student
-* 🤖 Interested in Artificial Intelligence, Machine Learning, and Computer Vision
-* 🐍 Passionate about Python development and image processing
-* 🌐 Exploring full-stack web technologies and intelligent applications
-* 🎤 Professional Master of Ceremonies (Emcee) for weddings, corporate events, cultural programs, and celebrations
-* 🐕 Fascinated by dog behavior, canine psychology, responsible ownership, and different dog breeds
-* 🌱 Always learning new technologies and improving my technical and communication skills
+- 🎓 MCA Student
+- 🤖 Interested in Artificial Intelligence, Machine Learning & Computer Vision
+- 🐍 Python Developer
+- 🌐 Exploring Full Stack Development
+- 🎤 Professional Emcee for Weddings, Corporate Events & Stage Shows
+- 🐕 Passionate about Dog Behaviour, Canine Psychology & Dog Breeds
+- 📖 Lifelong learner who enjoys solving real-world problems
 
 ---
 
-## 💼 What I'm Working On
-
-* 🥜 AI-based Cashew Nut Defect Detection using OpenCV
-* 🎨 Image Processing and Computer Vision projects
-* 📚 Expanding my knowledge of Machine Learning and Deep Learning
-* 🚀 Building practical software solutions that combine AI with user-friendly interfaces
-
----
-
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
 ### Languages
 
-* Python
-* Java
-* C
-* SQL
-* JavaScript
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Web Development
 
-* HTML
-* CSS
-* PHP
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### AI & Computer Vision
+### AI & Tools
 
-* OpenCV
-* Image Processing
-* Machine Learning Fundamentals
-
-### Databases
-
-* MySQL
-* SQLite
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* Streamlit
-* Canva
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -70,7 +63,7 @@ I'm passionate about building technology that solves real-world problems while a
 
 ### 🥜 Intelligent Cashew Nut Grading System
 
-An image-processing application that classifies cashew kernels as **Normal** or **Defective** using OpenCV techniques.
+AI-powered image processing application that classifies cashew kernels as **Normal** or **Defective** using OpenCV.
 
 **Tech:** Python • OpenCV • Image Processing
 
@@ -78,77 +71,90 @@ An image-processing application that classifies cashew kernels as **Normal** or 
 
 ### 🎨 Toonify – AI Image Transformation Tool
 
-A web application that transforms uploaded images into artistic cartoon-style illustrations.
+Transforms ordinary images into artistic cartoon-style illustrations using computer vision.
 
 **Tech:** Python • Streamlit • OpenCV • Pillow • SQLite
 
 ---
 
-## 🎤 Beyond Technology
+## 🎤 Beyond Coding
 
-When I'm not coding, you'll often find me behind the microphone as an **event emcee**.
+Alongside software development, I work as a **Professional Emcee (MC)**.
 
-I enjoy creating memorable experiences by hosting:
+✨ Weddings  
+✨ Corporate Events  
+✨ College Fests  
+✨ Cultural Programs  
+✨ Award Ceremonies  
+✨ Stage Shows
 
-* 💍 Weddings
-* 🏢 Corporate Events
-* 🎓 College Functions
-* 🎉 Cultural Programs
-* 🌟 Award Ceremonies
-* 🎭 Stage Shows
-
-Public speaking, audience engagement, and effective communication are skills that complement my technical journey and help me collaborate confidently with diverse teams.
+I enjoy creating engaging experiences through confident communication, audience interaction, and stage presence.
 
 ---
 
-## 🐾 A Personal Interest
+## 🐾 Outside Tech
 
-I'm deeply interested in:
+I'm passionate about learning more about:
 
-* Dog breeds and their characteristics
-* Canine behavior and psychology
-* Positive training methods
-* Responsible pet care
-* Learning from experienced trainers and veterinary resources
-
-I enjoy understanding what makes every breed unique and believe there's always something new to learn about our four-legged companions.
+- 🐕 Dog Behaviour
+- 🐶 Different Dog Breeds
+- ❤️ Positive Dog Training
+- 🩺 Canine Health & Welfare
 
 ---
 
-## 📚 Currently Learning
+## 📊 GitHub Analytics
 
-* Deep Learning
-* Convolutional Neural Networks (CNNs)
-* Advanced Computer Vision
-* Data Structures & Algorithms
-* Full-Stack Development
-* Generative AI
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=quximaria&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quximaria&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
----
-
-## 📈 GitHub Stats
-
-> Replace `YOUR_GITHUB_USERNAME` with your GitHub username.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=quximaria&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 🤝 Let's Connect
+## 🏆 GitHub Trophies
 
-Feel free to connect if you'd like to collaborate on technology, AI projects, event hosting opportunities, or simply exchange ideas.
-
-* 💼 LinkedIn: *Add your LinkedIn profile*
-* 📧 Email: *Add your professional email*
-
----
-
-## 💭 Personal Motto
-
-> *"Keep learning, communicate with purpose, and build solutions that create a meaningful impact."*
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=quximaria&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+</p>
 
 ---
 
-⭐ Thank you for visiting my profile!
+## 🌱 Currently Learning
+
+- Deep Learning
+- Computer Vision
+- CNNs
+- Generative AI
+- Full Stack Development
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💙 *"Technology, Communication, and Continuous Learning—growing one project and one experience at a time."*
+
+⭐ Thanks for visiting my profile!
+
+</div>
+```
